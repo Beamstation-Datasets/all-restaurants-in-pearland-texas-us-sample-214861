@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a00f58c6-3873-466a-85eb-b6959eeaf76a",
+  "export_job_id": "7a04316b-5462-4d93-81ea-fbf1c4546813",
   "id_short": 214861,
-  "published_at": "2026-04-12T07:04:58Z",
+  "published_at": "2026-04-17T19:12:44Z",
   "repo_name": "all-restaurants-in-pearland-texas-us-sample-214861",
   "sample_asset_name": "beamstation_214861_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/214861/beamstation_214861_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_records": 37,
-  "sample_sha256": "1c225f024cf739e999e9cafdf4eb95fc33cc96e08b9b69c2a52911b3016b4d9f",
-  "sample_size_bytes": 155793,
-  "total_records": 374
+  "sample_sha256": "b52e56bf7582f9a7e70e2c93fba0b55ae457d420a507e2d93973db8f76db78f4",
+  "sample_size_bytes": 143647,
+  "total_records": 373
 }
