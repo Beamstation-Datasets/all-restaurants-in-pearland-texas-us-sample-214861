@@ -1,6 +1,6 @@
 # All Restaurants in Pearland, Texas, US
 
-> Free BeamStation sample export with 34 rows and masked direct-contact fields.
+> Free BeamStation sample export with 37 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `214861` |
 | Location | Pearland |
 | Category | Restaurants |
-| Full dataset size | 341 records |
-| Free sample size | 34 records (9.97%) |
-| Last export | 2026-04-21T11:12:32.921934+00:00 |
+| Full dataset size | 374 records |
+| Free sample size | 37 records (9.89%) |
+| Last export | 2026-04-28T11:41:17.531926+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-pearland-texas-us-sample-214861/releases/download/sample-latest/beamstation_214861_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
